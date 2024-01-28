@@ -1,0 +1,14 @@
+===Database laptop_inventory
+
+== Table structure for table asus
+
+|------
+|Column|Type|Null|Default
+|------
+|//**Lap_id**//|int(11)|No|
+|Lap_filename|varchar(40)|No|
+|Lap_content|text|No|
+|Lap_image|longblob|No|
+|Quantity|int(11)|No|
+== Dumping data for table asus
+
